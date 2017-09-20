@@ -1,9 +1,13 @@
 # python progress
-代码运行了四种排序
+使用网络编程
+使用socket模块  
+客户端访问服务器的端口
+服务器端进行记录监听
 
 如下图
 ----------------
-![Image text](https://github.com/naginoasukara/python-progress/blob/master/sorts/RGJAQDKE%60LFFFMCCP3%40TK9V.png)
+![Image text](https://github.com/naginoasukara/python-progress/blob/master/socket/socket1.png)
 
-排序的数组都为10000个随机产生的数（0-10000）
-可见快速排序还是相对最快的
+![Image text](https://github.com/naginoasukara/python-progress/blob/master/socket/socket2.png)
+
+
